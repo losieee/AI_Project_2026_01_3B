@@ -1,4 +1,4 @@
-#가중통제
+# 가중통제
 
 ![Image](https://raw.githubusercontent.com/losieee/AI_Project_2026_01_3B/1f9186f75e4a30cf8a7887139fcc3b9b5a6ddb8e/PROMPTADV/00003-2684866871.png)
 
